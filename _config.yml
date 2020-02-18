@@ -1,11 +1,11 @@
 # Site settings
 author: Lydell Gaines
-title: 
+title: Why did I decide to learn Software Engineering
 header-img: img/home-bg.png
 email: dasnic70@gmail.com
 copyright_name: Lydell Gaines
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Emgineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dasnic
